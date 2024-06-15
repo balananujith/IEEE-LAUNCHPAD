@@ -1,156 +1,67 @@
-# IEEE LAUNCHPAD Job Fair
+# ANUJITH BALAN
 
+### About Me
 
+> I am a versatile developer with a passion for crafting elegant web solutions and innovative Android applications. Fascinated by the possibilities of artificial intelligence and machine learning, I immerse myself in creating cutting-edge models, especially in the realm of natural language processing (NLP). With a commitment to continuous learning, I thrive on challenges and seek to push the boundaries of technology to create impactful solutions.I am deeply engrossed in developing chatbots using advanced NLP models such as BERT, GPT, and Transformer-based architectures. My goal is to redefine user interactions, making them more intuitive and human-like, thus revolutionizing the way people engage with technology.
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                  | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|-----------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Time Table Maker App**  | Simplifies task management with easy task addition, deletion, and reminders, ensuring users stay organized and on track effortlessly.                                          |  -  | [Link ](https://github.com/balananujith/Time_Table_Maker.git)             |
+| **Movie Recommendation System**    |  Offers personalized suggestions based on title, cast, crew, and description, ensuring you discover your next favorite film effortlessly                                             |  -  | [ Link ](https://github.com/balananujith/Movie_Recommender_App.git)             |
+| **Book Recommendation System**  | Utilizes advanced algorithms to suggest books based on genres, providing tailored recommendations to match your reading preferences seamlessly                                          | [Link ](https://book-recommendation-m6xrnm7ug2kgpcappih7vga.streamlit.app/)  | [Link ](https://github.com/balananujith/Book-recommendation.git)             |
+| **Flight Price Prediction System**  | Provides users with anticipated costs based on departure/arrival details, stoppages, and airline carrier choice, addressing the challenge of dynamic pricing in airline ticketing.|  -  | [Link ](https://github.com/balananujith/flight-price-prediction2.git)             |
+| **Diabetes Prediction System**  | Predicts diabetes presence using attributes like Pregnancies, Glucose, and BMI, involving preprocessing, algorithm selection, and model deployment for early detection and intervention.|  -  | [Link ](https://github.com/balananujith/Diabetes_Prediction_Using_ML.git)             |
+| **Youtube Video Summarizer**  | Condenses video transcripts into concise summaries under 250 words, utilizing YouTube Transcript API and Google Generative AI for efficient content comprehension.                                         |  [Link ](https://balananujith.github.io/YT_Summarizer5/)  | [Link ](https://github.com/balananujith/YT_Summarizer5.git)             |
+| **Snake-n-Apple**  | Python backend, HTML/CSS/JS frontend; features include snake movement, apple generation, score tracking, game over detection, responsive design, and adjustable levels for user experience.          |   | [Link ](https://github.com/balananujith/Snake-n-apple.git)             |    
+| **IPL WIN PREDICTOR**  | Predicts IPL match outcomes using machine learning trained on match data, considering factors like target score, current score, overs completed, and wickets lost for both batting and bowling teams.                                        |  | [Link ](https://github.com/balananujith/IPL_WIN_PREDICTOR.git)             |
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+#### Leadership and Influence:
 
+- 
+In my domain, I demonstrate leadership and influence through tangible projects and collaborations. For instance, as a team leader for a B.Tech mini project, I spearheaded the development of a Sorting and Searching Algorithm Visualizer using Python's Tkinter GUI. By coordinating tasks, facilitating collaboration, and providing guidance, I ensured the project's successful completion. This experience underscores my ability to influence and lead a team towards achieving project goals efficiently, showcasing both technical prowess and effective leadership.
 
+#### Networking:
 
 
+-
+My networking skills involve actively engaging with communities both online and offline, participating in industry events, and fostering meaningful connections with professionals in my field. I plan to engage with communities by contributing to forums, attending meetups, and sharing insights through  social media. By establishing myself as a knowledgeable and approachable resource, I aim to influence and lead others by sharing expertise and fostering collaboration within the community. Through these efforts, I aspire to contribute positively to the growth and development of my respective field.
 
+#### Career Plan:
 
+-
+My immediate plan involves actively engaging with the Kerala startup ecosystem by networking with local entrepreneurs, attending relevant events, and exploring opportunities for collaboration. I aim to contribute through mentorship programs, offering guidance and support to budding startups, and participating in initiatives aimed at fostering innovation and entrepreneurship in the region. In the longer term, I envision leveraging my expertise and resources to launch my own startup or incubator focused on addressing local challenges and nurturing talent within the Kerala startup ecosystem, ultimately making a meaningful and sustainable impact on its growth and success.
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### Thoughts on Kerala's Tech Ecosystem:
 
-#
+- 
+Kerala holds immense potential to excel in the technology startup ecosystem with the right strategies and support systems in place. One key aspect is fostering a culture of innovation and entrepreneurship by providing resources, mentorship, and funding opportunities to aspiring entrepreneurs. Additionally, investing in STEM education and skill development programs can nurture a talented pool of tech professionals and innovators, laying the foundation for future growth. Embracing emerging technologies and fostering collaboration between industry, academia, and government can further fuel innovation and drive the growth of Kerala's tech ecosystem. By leveraging its unique strengths, such as its vibrant culture, skilled workforce, and supportive community, Kerala can position itself as a leading hub for technology startups, driving economic growth and prosperity in the region.
 
+#### History of Open Source Contributions:
 
+I am currently in the process of learning and preparing to contribute to open-source projects. While I haven't made any contributions yet, I am dedicated to gaining the necessary skills and knowledge to participate effectively in the open-source community. In the near future, I aim to contribute to various projects, including potentially highly popular ones, to support and enhance collaborative software development.
+#### History of Community Engagement:
 
+I actively engage with the technical community by checking for issues on platforms like Stack Overflow, where I also upload my solutions to problems discussed. Additionally, I participate in various technical forums, including mailing lists and Discord servers, where I contribute to discussions and help troubleshoot problems. My involvement in these communities reflects my commitment to sharing knowledge and supporting others in their technical journeys.
 
-<div align="center">
+#### Highly Visible Technical Content:
 
+Although I have not yet created highly visible technical blog posts, articles, or video series, I am planning to do so in the near future. I am dedicated to sharing my knowledge and expertise through these mediums to contribute to the broader technical community and support others in their learning and development.
 
+#### Highly Used Software Tools:
 
+ I have extensive experience using a variety of highly regarded tools in the software development community. These include Visual Studio Code for editors, Anaconda and Python notebooks for data science and development, Android Studio for mobile app development, and PyCharm for Python programming, among many others.
 
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
 
-> **Watch the onboarding video-👆**
+#### Competitive Website Profiles:
 
-## Step 1:
+I am highly active on HackerRank, where I have earned a gold-level badge and received a software engineering intern certificate. You can view my profile and achievements on HackerRank [here](https://www.hackerrank.com/profile/balananujith).
 
 
 
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
+>> check out [anujithbalan@mulearn.md](./profiles/anujithbalan@mulearn.md) 
 ---
